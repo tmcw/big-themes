@@ -1,0 +1,20 @@
+#theme-select {
+    position:absolute;
+    text-align:right;
+    top:10px;
+    right:10px;
+    display:block !important;
+}
+
+#theme-select a {
+    font:12px/20px 'Helvetica' !important;
+    letter-spacing:0 !important;
+    background:transparent !important;
+    color: #fff;
+    text-decoration:none;
+    margin-right:2em;
+    text-shadow: 0 0 3px #000,
+        0 0 3px #000,
+        0 0 3px #000,
+        0 0 3px #000;
+}
